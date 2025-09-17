@@ -1,0 +1,29 @@
+# macOS系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 缩略图
+._*
+
+# 可能出现在卷根目录中的文件
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# IDE和编辑器文件
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# 日志文件
+*.log
+
+# 临时文件
+tmp/
+temp/
